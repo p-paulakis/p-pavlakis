@@ -1,11 +1,11 @@
 Hi, I'm Panos! 👋
 
- About Me
+About Me
 Learning data analysis with R and SQL  
 Building portfolio projects in data analytics  
 Seeking opportunities in data analysis
 
- Skills
+Skills
 Languages: R, SQL
 Tools: RStudio, ggplot2, dplyr, sqldf
 Skills: Data analysis, visualization, statistical reporting
